@@ -1,0 +1,43 @@
+.femerTable {
+  border: 10px solid palevioletred;
+  color: floralwhite;
+  background-color: pink;
+  height: 100px;
+  width: 300px;
+}
+
+.femerHead {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.femerItem {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 16px;   
+}
+
+
+.mashkullTable {
+    border: 10px solid yellow;
+    color: floralwhite;
+    background-color: blue;
+    height: 100px;
+    width: 300px;
+  }
+  
+  .mashkullHead {
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-weight: 300;
+      font-size: 18px;
+  }
+  
+  .mashkullItem {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 16px;   
+  }
+
+  body {
+      margin: 5%;
+      padding: 0%;
+  }
